@@ -1,0 +1,28 @@
+.maincontainer{
+    display: flex;
+    height:40%;
+    width:100%;
+    justify-content: center;
+
+
+}
+.Explanation{
+    height:50%;
+    width:40%;
+    background-color: #cae9ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px;
+    gap:50px;
+    
+    
+}
+.main{
+    font-size: 30px;
+    font-weight: 700;
+}
+.second{
+    font-size: 15px;
+}
